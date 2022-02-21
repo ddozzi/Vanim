@@ -13,5 +13,5 @@ Valorant kill banner animations for Minecraft.
 - The most useful contributions at this time would be more animations.
 
 ## Credits
-- Credits to TheRandomYordle2 for the kill banner animations. [video](https://www.youtube.com/watch?v=lfu_WZ6p51U)
+- Credits to TheRandomYordle2 for the kill banner animations and sound effects. [video](https://www.youtube.com/watch?v=lfu_WZ6p51U)
   - Video was downloaded and animations were individually extracted using OpenCV and FFMPEG
