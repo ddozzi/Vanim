@@ -4,7 +4,7 @@ Valorant kill banner animations for Minecraft.
 ## Information
 - Currently only supports the default kill animation (couldn't find any other kill banner animations)
 - Requires internet on first startup because it needs to download resources
-- Requires a minimum of ~60mb of space for resources.
+- Resources take up a lot of space, so the mod is kinda big.
 
 ## Contributing
 - Since this project uses Essentials by Sk1er, you need to add this to the JVM arguments.
